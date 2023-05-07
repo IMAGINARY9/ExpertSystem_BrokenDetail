@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/details&amp;factors">
+        <file>details&amp;factors.txt</file>
+    </qresource>
+</RCC>

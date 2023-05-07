@@ -1,0 +1,34 @@
+Battery: car won't start, no cranking sound, dashboard lights flickering, acid leak from battery
+Alternator: car won't start, dashboard lights flickering, burning smell, whining noise from engine
+Starter Motor: car won't start, no cranking sound, clicking sound from starter motor
+Ignition Switch: car won't start, no cranking sound, power windows and locks not working
+Fuel Pump: low fuel warning, engine stalls while driving, humming noise from fuel tank
+Fuel Filter: low fuel warning, engine stalls while driving, fuel smell in cabin
+Fuel Injectors: rough idle, low fuel warning, engine stalls while driving, gasoline smell from exhaust
+Spark Plugs: rough idle, check engine light on, misfiring engine, loss of power
+Ignition Coil: rough idle, check engine light on, misfiring engine, loss of power, burning smell
+Oxygen Sensors: rough idle, check engine light on, poor fuel economy, rotten egg smell from exhaust
+Oil Pump: low oil pressure, oil warning light on, ticking noise from engine
+Oil Filter: low oil pressure, oil warning light on, engine rattling noise
+Engine Bearings: low oil pressure, engine makes knocking noise, vibration from engine
+Tie Rod Ends: wobbling wheels, suspension noise, steering wheel shakes, uneven tire wear
+Ball Joints: wobbling wheels, suspension noise, steering wheel shakes, clunking noise from suspension
+Suspension Struts: high suspension load, suspension noise, bumpy ride, oil leak from struts
+Shock Absorbers: high suspension load, suspension noise, bumpy ride, car bouncing excessively
+Wheel Bearings: wobbling wheels, steering wheel shakes, growling noise from wheels
+Brake Calipers: ABS light on, grinding noise while braking, brake pads wearing unevenly
+Brake Lines: ABS light on, grinding noise while braking, brake pedal feels spongy
+Master Cylinder: ABS light on, brake pedal goes to the floor, brake fluid leaking from master cylinder
+Tire Pressure Monitoring System: tire pressure warning, low tire pressure, TPMS light flashing
+Tire Damage or Leak: tire pressure warning, low tire pressure, hissing noise from tire
+Radiator: high engine temperature, burning smell, coolant leaking from radiator
+Cooling Fans: high engine temperature, radiator noise, cooling fans not turning on
+Head Gasket: high engine temperature, check engine light on, white smoke from exhaust, coolant leaking into oil
+Thermostat: high engine temperature, check engine light on, engine overheating at idle, heater not working
+Clutch: rough shifting, transmission issues, burning smell from clutch, clutch pedal feels soft
+Transmission: rough shifting, transmission issues, transmission fluid leaking, slipping gears
+Transmission Control Module: rough shifting, check engine light on, transmission stuck in one gear, warning lights flashing
+Solenoids: rough shifting, check engine light on, transmission slipping, transmission not shifting gears
+Power Steering Pump: steering wheel is hard to turn, whining noise from engine, power steering fluid leaking
+Power Steering Belt: steering wheel is hard to turn, whining noise from engine, power steering belt squealing
+Power Steering Fluid: steering wheel is hard to turn, whining noise from engine, power steering fluid foaming
